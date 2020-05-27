@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'I am sorry for loving you', 'I am sorry if it makes u feel uncomfortable...', 'Well i will still be there whenever u ne me', 'I love You Patricia Angelina Rajagukguk ^2500']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'I am sorry for loving you', 'I am sorry if it makes u feel uncomfortable...', 'Well i will still be there whenever u need me', 'I love You Patricia Angelina Rajagukguk ^2500']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
