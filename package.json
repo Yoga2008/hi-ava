@@ -2,7 +2,7 @@
   "name": "HBD Mbak Dok",
   "version": "1.0.0",
   "description": "ILY",
-  "author": "Yogs",
+  "author": "Brian",
   "private": true,
   "scripts": {
     "dev": "nuxt",
