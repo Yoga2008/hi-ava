@@ -1,8 +1,8 @@
 {
-  "name": "greet",
+  "name": "HBD Mbak Dok",
   "version": "1.0.0",
   "description": "ILY",
-  "author": "Brian",
+  "author": "Yogs",
   "private": true,
   "scripts": {
     "dev": "nuxt",
